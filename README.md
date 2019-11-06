@@ -1,7 +1,8 @@
 
 # Introduction
 
-You can to import some images in the view and limit the number of images displayed is 12.
+Custom tool on MacOS, you want to convert image file to pdf or doc so that it's all you need
+The max image number which can to convert on time is 12.
 
 ![Alt text](http://i.imgur.com/UXmzDs2.png "")
 
